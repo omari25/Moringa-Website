@@ -252,3 +252,20 @@ color: white;
 .image2 .pe2{
     color: #EC4067;
 }
+.image3 img{
+    position: relative;
+    width: 200px;
+    height: auto;
+}
+/* .image3 .pe1{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+} */
+.image3 .pe2, .pe3{
+    width: 200px;
+}
+.image3 .pe2{
+    color: #EC4067;
+}
