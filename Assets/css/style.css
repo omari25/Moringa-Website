@@ -286,3 +286,56 @@ color: white;
 .image4 .pe2{
     color: #EC4067;
 }
+.sec-4 p{
+    font-size: 30px;
+}
+.sec-4 .sec3span{
+    background-color: lightgray;
+}
+
+.sec-4 .sec3span2{
+    font-size: 14px;
+}
+
+.sec_two{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 450px;
+    width: 100%;
+}
+.down {
+    width: 40%;
+}
+.lastsec{
+    margin: 50px auto;
+
+}
+.lastsec .lastsec-p{
+    color: #EC4067;
+    font-size: 30px;
+}
+.lastsec-p2 button {
+    background-color: #EC4067;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+
+}
+.lastsec .lastsecspan{
+    color: #EC4067;
+}
+
+
+footer {
+    background-color: lightgrey;
+    bottom: 0;
+    padding: 50px;
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
+footer i{
+    color: red;
+}
