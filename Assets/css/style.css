@@ -92,3 +92,16 @@
 .sec-3 .sec3span2{
     font-size: 14px;
 }
+.stories{
+    margin: 30px auto;
+}
+.stories p{
+    font-size: 30px;
+}
+.stories .stry1span {
+    background-color: lightgray;
+}
+    
+.stories .stry1span2{
+    font-size: 14px;
+}
