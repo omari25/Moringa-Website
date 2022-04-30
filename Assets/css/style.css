@@ -105,3 +105,36 @@
 .stories .stry1span2{
     font-size: 14px;
 }
+.orientation-img {
+    position: relative;
+}
+.graduation-img {
+    position: relative;
+}
+.board-img {
+    position: relative;
+}
+.float1 {
+    position: absolute;
+    top: 8px;
+    right: 16px; 
+    color: white;
+}
+.float2{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: white;
+}
+.float3{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: white;
+}
+.float4{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+color: white;
+}
