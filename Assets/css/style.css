@@ -82,3 +82,13 @@
     border: 1px solid #EC4067;
     color: #EC4067;
 }
+.sec-3 p{
+    font-size: 30px;
+}
+.sec-3 .sec3span{
+    background-color: lightgray;
+}
+
+.sec-3 .sec3span2{
+    font-size: 14px;
+}
