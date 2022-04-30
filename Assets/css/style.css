@@ -203,3 +203,36 @@ color: white;
     padding: 8px 12px;
     border-radius: 3px;
 }
+.mentors{
+    /* margin: 30px; */
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.mentors button{
+    margin: 10px 0;
+    color: white;
+    background-color: #EC4067;
+    border: none;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.image1 img{
+    /* position: relative; */
+    width: 200px;
+    height: auto;
+}
+.mentors .pe1{
+    position: absolute;
+    bottom: 170px;
+    padding-left: 10px;
+    color: white;
+}
+.image1 .pe2, .pe3{
+    width: 200px;
+}
+.image1 .pe2{
+    color: #EC4067;
+}
