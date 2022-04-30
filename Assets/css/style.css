@@ -138,3 +138,68 @@
     right: 16px;
 color: white;
 }
+.orientation{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+}
+.orientation .orientation-txt{
+    width: 500px;
+}
+.orientation .orientation-img img{
+    width: 500px;
+    height: auto;
+}
+.orientation .orientation-txt button{
+    background-color: #EC4067;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 3px;
+}
+
+.board{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+}
+.board .board-txt{
+    max-width: 500px;
+}
+.board .board-img img{
+    width: 500px;
+    height: auto;
+}
+.board .board-txt button{
+    background-color: #EC4067;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 3px;
+}
+
+.graduation{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+}
+.graduation .graduation-txt{
+    width: 500px;
+}
+.graduation .graduation-img img{
+    width: 500px;
+    height: auto;
+}
+.graduation .graduation-txt button{
+    background-color: #EC4067;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 3px;
+}
