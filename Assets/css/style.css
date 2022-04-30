@@ -138,6 +138,7 @@
     right: 16px;
 color: white;
 }
+
 .orientation{
     position: relative;
     display: flex;
@@ -203,6 +204,7 @@ color: white;
     padding: 8px 12px;
     border-radius: 3px;
 }
+
 .mentors{
     /* margin: 30px; */
     position: relative;
@@ -235,7 +237,11 @@ color: white;
 }
 .image1 .pe2{
     color: #EC4067;
-}.image2 img{
+}
+
+
+
+.image2 img{
     position: relative;
     width: 200px;
     height: auto;
@@ -252,6 +258,8 @@ color: white;
 .image2 .pe2{
     color: #EC4067;
 }
+
+
 .image3 img{
     position: relative;
     width: 200px;
@@ -269,6 +277,10 @@ color: white;
 .image3 .pe2{
     color: #EC4067;
 }
+
+
+
+
 .image4 img{
     position: relative;
     width: 200px;
@@ -286,6 +298,7 @@ color: white;
 .image4 .pe2{
     color: #EC4067;
 }
+
 .sec-4 p{
     font-size: 30px;
 }
